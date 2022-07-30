@@ -6,10 +6,11 @@
 
 Learning: 
 
-- Crypto Zombies - completed https://cryptozombies.io/en/course/
-- Scaffold-Eth - completed challenges 1-4 (multisig WIP) https://speedrunethereum.com/
-- Alchemy Road 2 Web 3 - completed challenges 1-3 (challenge 4 WIP) https://docs.alchemy.com/alchemy/road-to-web3/welcome-to-the-road-to-web3
-- Other: Poap4Peace Voting POC on scaffold-eth https://poap4peace-heart-v01.surge.sh/
+- [Crypto Zombies](https://cryptozombies.io/en/course/)
+- [Scaffold-Eth](https://speedrunethereum.com/)
+- [BuidlGuidl](https://buidlguidl.com/)
+- [Alchemy Road 2 Web 3](https://docs.alchemy.com/alchemy/road-to-web3/welcome-to-the-road-to-web) (challenge 6 wip)
+
 --
 
 <!---
