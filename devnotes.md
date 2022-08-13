@@ -1,3 +1,16 @@
+## React
+#### Styles
+- [antd](https://ant.design/components/list/)
+
+## Solidity
+#### Arrays
+- [how-to-create-a-dynamic-memory-array-in-solidity](https://stackoverflow.com/questions/66914403/how-to-create-a-dynamic-memory-array-in-solidity)
+- [solidity-by-example-array](https://solidity-by-example.org/array/)
+
+#### Operators
+- https://www.tutorialspoint.com/solidity/solidity_operators.htm
+
+#### Comments
 ```
 ///@title  Dev Notes - EVM Programing
 ///@author quantumtekh.eth
