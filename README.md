@@ -8,7 +8,7 @@ Learning:
 
 - [Crypto Zombies](https://cryptozombies.io/en/course/)
 - [Scaffold-Eth](https://speedrunethereum.com/)
-- [BuidlGuidl](https://buidlguidl.com/)
+- [BuidlGuidl](https://buidlguidl.com/) (need multisig)
 - [Alchemy Road 2 Web 3](https://docs.alchemy.com/alchemy/road-to-web3/welcome-to-the-road-to-web) (challenge 6 wip)
 
 --
