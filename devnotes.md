@@ -17,6 +17,18 @@
 */
 //@Source https://jeancvllr.medium.com/solidity-tutorial-all-about-comments-bc31c729975a
 //@ref    [Doxygen Manual](https://www.doxygen.nl/manual/index.html)
+
+/*
+//@title
+//@author
+//@notice
+//@dev   
+//@param 
+//@return
+//@source
+//@ref   
+*/
+
 ```
 #### Links 
 - [solidity-tutorial-all-about-comments](https://jeancvllr.medium.com/solidity-tutorial-all-about-comments-bc31c729975a)
