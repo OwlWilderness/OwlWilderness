@@ -1,7 +1,7 @@
 ```
-//@title  Dev Notes - EVM Programing
-//@author quantumtekh.eth
-//@notice reference of learnings along the way to learning and developing ethereum dapps
+///@title  Dev Notes - EVM Programing
+///@author quantumtekh.eth
+///@notice reference of learnings along the way to learning and developing ethereum dapps
 
 //@dev solidity supported doxygen style tags for comments
 /*
@@ -12,6 +12,8 @@
 //@dev      Any extra details                           Contract, Interfaces, Functions
 //@param    parameter type followed by parameter name   Functions
 //@return   return value of a function                  Functions
+
+//not supported:
 //@source   source of [some] content                    Contract, Interfaces, Functions
 //@ref      reference to [some] content                 Contract, Interfaces, Functions
 */
@@ -19,14 +21,14 @@
 //@ref    [Doxygen Manual](https://www.doxygen.nl/manual/index.html)
 
 /*
-//@title
-//@author
-//@notice
-//@dev   
-//@param 
-//@return
-//@source
-//@ref   
+///@title
+///@author
+///@notice
+///@dev   
+///@param 
+///@return
+///@source
+///@ref   
 */
 
 ```
