@@ -8,9 +8,9 @@ Learning:
 
 - [Crypto Zombies](https://cryptozombies.io/en/course/)
 - [Scaffold-Eth](https://speedrunethereum.com/)
-- [BuidlGuidl](https://buidlguidl.com/) (need multisig)
-- [Alchemy Road 2 Web 3](https://docs.alchemy.com/alchemy/road-to-web3/welcome-to-the-road-to-web) (challenge 6 wip)
-- [Alchemy University](https://university.alchemy.com/home) (js complete, wip eth bootcamp)
+- [BuidlGuidl](https://buidlguidl.com/) 
+- [Alchemy Road 2 Web 3](https://docs.alchemy.com/alchemy/road-to-web3/welcome-to-the-road-to-web) 
+- [Alchemy University](https://university.alchemy.com/home) 
 --
 
 <!---
