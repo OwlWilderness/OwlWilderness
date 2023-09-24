@@ -27,8 +27,6 @@ Soulbound
 Noodling 
 - Gnosis: Nethermind/Lighthouse (validating)
 - Ethereum: Nethermind/Lighthouse
-- Lukso: Geth / Prysm
-- Sepolia: Geth / Prysm
 
 DAOs
 - AAgotchi 
@@ -50,7 +48,7 @@ Origin
 Alts:
 - regentekh.eth - public goods and donation 
 - tekh.eth - san soulbound, nounish, baseish
-- josephtekh.eth / josephtekh.lens - custodian
+
 -- 
 
 <!---
