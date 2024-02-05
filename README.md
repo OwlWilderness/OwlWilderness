@@ -1,5 +1,14 @@
 Enter file contents here
 
+## some builds using se-2
+
+### ui attempted
+- [spellbook](https://spellbook-psi.vercel.app/) hardhat, chiado, gnosis, ethereum
+- [send mana](https://gnostic-observer.vercel.app/) gnosis
+### debug contracts only
+- [gnosig svg](https://gnostic-svg-owlwilderness.vercel.app/debug) gnosis
+- [buidl](https://buidl-owlwilderness.vercel.app/debug) polygon 
+  
 ### some chains from [chainlist dot org](https://chainlist.org/)
 chain dec| chain hex | token | name
 --- | --- | --- |---
