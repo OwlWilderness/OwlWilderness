@@ -10,7 +10,7 @@ Enter file contents here
 - [buidl](https://buidl-owlwilderness.vercel.app/debug) polygon 
   
 ### some chains from [chainlist dot org](https://chainlist.org/)
-chain dec| chain hex | token | name | rpc api
+chain dec| chain hex | token | name | api url
 --- | --- | --- |--- | ---
 1 | 0x1 | ETH | ethereum
 10 | 0xa | ETH | optimism
