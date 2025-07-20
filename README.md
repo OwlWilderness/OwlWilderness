@@ -5,10 +5,22 @@ Enter file contents here
 ### ui attempted
 - [spellbook](https://spellbook-psi.vercel.app/) hardhat, chiado, gnosis, ethereum
 - [send mana](https://gnostic-observer.vercel.app/) gnosis
+
 ### debug contracts only
 - [gnosig svg](https://gnostic-svg-owlwilderness.vercel.app/debug) gnosis
 - [buidl](https://buidl-owlwilderness.vercel.app/debug) polygon 
   
+## links
+- [san safe transfer batch](https://abi.ninja/0x33333333333371718A3C2bB63E5F3b94C9bC13bE/1?methods=safeTransferFrom_0%2CbatchSafeTransferFrom)
+### tba
+- umi [tropical](https://tokenbound.org/assets/ethereum/0x33333333333371718A3C2bB63E5F3b94C9bC13bE/1481)
+- chi umi [amp](https://tokenbound.org/assets/ethereum/0x33333333333371718A3C2bB63E5F3b94C9bC13bE/9491)
+- mecha [diamond hands](https://tokenbound.org/assets/ethereum/0x33333333333371718A3C2bB63E5F3b94C9bC13bE/4618)
+- sora [runaway zin](https://tokenbound.org/assets/ethereum/0x33333333333371718A3C2bB63E5F3b94C9bC13bE/3876)
+- umi [octoteeth](https://tokenbound.org/assets/ethereum/0x33333333333371718A3C2bB63E5F3b94C9bC13bE/4346)
+- chi [dragon](https://tokenbound.org/assets/ethereum/0x33333333333371718A3C2bB63E5F3b94C9bC13bE/4797)
+- chi [tiger](https://tokenbound.org/assets/ethereum/0x33333333333371718A3C2bB63E5F3b94C9bC13bE/5039)
+## maps
 ### some chains from [chainlist dot org](https://chainlist.org/)
 chain dec| chain hex | token | name | api url
 --- | --- | --- |--- | ---
