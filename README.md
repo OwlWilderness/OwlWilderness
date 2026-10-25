@@ -1,14 +1,3 @@
-Enter file contents here
-
-## some builds using se-2
-
-### ui attempted
-- [spellbook](https://spellbook-psi.vercel.app/) hardhat, chiado, gnosis, ethereum
-- [send mana](https://gnostic-observer.vercel.app/) gnosis
-
-### debug contracts only
-- [gnosig svg](https://gnostic-svg-owlwilderness.vercel.app/debug) gnosis
-- [buidl](https://buidl-owlwilderness.vercel.app/debug) polygon 
   
 ## links
 - [san safe transfer batch](https://abi.ninja/0x33333333333371718A3C2bB63E5F3b94C9bC13bE/1?methods=safeTransferFrom_0%2CbatchSafeTransferFrom)
